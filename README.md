@@ -3,4 +3,4 @@ x=input('username:')
 z=input('password:')
 for i in range(0,100):
     print(i)
-print('open link https://www.youtube.com/watch?v=uHgt8giw1LY')
+print('open https://www.youtube.com/watch?v=uHgt8giw1LY')
